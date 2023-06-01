@@ -1,6 +1,39 @@
 renders
 output
 GIRL_blend
+Snowboarder
+SUPER_TERRAIN_obj
 assets
-_pycache_
+__pycache__
 Actual Objects
+data
+blank.blend 
+blender_sample.py 
+CorrectSeams.mtl
+CorrectSeams.obj
+cube_blender_mapped_test.mtl 
+cube_blender_mapped_test.obj 
+cube_magic_test.obj 
+cube_mapped.obj 
+cube.obj 
+Cut mountain.blend
+Cut Mountain.blend1
+Final Project Plan.md 
+leg_mapped.txt
+leg.mtl 
+leg.obj 
+lscm_backup.txt 
+scene-cone.obj 
+scene-cube.obj 
+scene-floor.obj 
+scene-sphere.obj 
+scene-suzanne.obj 
+scene-torus.obj 
+scene.obj
+Seams.obj 
+Skiier_Leg_Vertices.txt
+Skiier_Vertices.txt
+uv_cube_test.mtl
+uv_cube_test.obj
+Final Scenes and Objects/Spline Data.txt
+Final Scenes and Objects/Snowy Mountain Scene.blend
