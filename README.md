@@ -5,7 +5,7 @@
 
 For this project, I implemented two separate modules.
 
-First, I added Bezier, Hermite, Cardinal, and Catmull-Rom splines (they are in `interp.py`). 
+First, I added Bezier, Hermite, Cardinal, and Catmull-Rom splines (they are in `interpolation.py`). 
 I then used these splines in my animation to make the snowboarder move.
 
 Second, I added Least Square Conformal Mapping (they are in `uv_mapping.py`).
