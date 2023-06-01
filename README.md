@@ -33,6 +33,9 @@ for some reason, exporting them from blender ruins their materials.
 
 ## 3D Model Sources:
 Mountains: https://www.turbosquid.com/3d-models/free-snowy-terrain-landscapes-3d-model/584949
+
 Snowboard: https://www.turbosquid.com/3d-models/snow-board-obj-free/871115
+
 Girl: https://www.turbosquid.com/3d-models/girl-model-1637866
+
 Snow material for the mountains: https://www.blenderkit.com/asset-gallery-detail/f758fcd2-7161-442b-896b-dc987bdef98b/
