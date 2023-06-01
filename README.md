@@ -1,4 +1,5 @@
-# Snowboarder Animation - Jacob Serfaty's Intro to Computer Graphics Final Project
+# Snowboarder Animation
+## Jacob Serfaty's Intro to Computer Graphics Final Project
 
 # What did I do for this project?
 
