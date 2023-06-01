@@ -28,7 +28,7 @@ for some reason, exporting them from blender ruins their materials.
 # How to run this project (assuming you have all of the libraries I used):
 1. Clone this repo
 2. Unzip "Final Scenes and Objects/Snowy Mountain Scene.zip" into the "Final Scenes and Objects" folder
-2. Run `main.py'
+2. Run `main.py`
 3. Run `save_video.py`
 
 ## 3D Model Sources:
